@@ -6,7 +6,7 @@ public class Challenge01UniversityIDCard {
         String StudentName="Name - Raj jaiswal";
         int age=22;
         String CourseName="cse";
-        System.out.println(CollegeName + "\n" + StudentName + "\n" + "Age - "+ age +"");
+        System.out.println(CollegeName + "\n" + StudentName + "\n" + "Age - "+ age +"\n"+"CourseName -"+ CourseName);
     }
 
 
