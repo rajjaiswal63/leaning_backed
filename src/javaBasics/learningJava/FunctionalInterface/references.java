@@ -1,4 +1,5 @@
 package javaBasics.learningJava.FunctionalInterface;
 
-public class refrences {
+public class references {
+
 }

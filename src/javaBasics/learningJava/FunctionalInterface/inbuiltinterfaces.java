@@ -2,7 +2,7 @@ package javaBasics.learningJava.FunctionalInterface;
 
 import java.util.function.Function;
 
-public class inBuildinterface {
+public class inbuiltinterfaces {
     public static Function<Integer, Integer> addFun = (a) -> a+3;
     public static Function<Integer, Integer> subFun = (a) -> a-6;
 
