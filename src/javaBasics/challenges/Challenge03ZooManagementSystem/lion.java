@@ -1,4 +1,4 @@
-package javaBasics.Challenge03ZooManagementSystem;
+package javaBasics.challenges.Challenge03ZooManagementSystem;
 
 public class lion extends animal {
     public lion(String name){

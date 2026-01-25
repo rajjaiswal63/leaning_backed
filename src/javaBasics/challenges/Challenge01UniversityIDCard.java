@@ -1,4 +1,4 @@
-package javaBasics;
+package javaBasics.challenges;
 
 public class Challenge01UniversityIDCard {
     public static void main(String[] args){

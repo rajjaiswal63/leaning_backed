@@ -1,4 +1,4 @@
-package javaBasics;
+package javaBasics.challenges;
 
 public class Challenge02TheSmartGradeCalculator {
     private static double calculatePercentage(int maths, int science, int english){

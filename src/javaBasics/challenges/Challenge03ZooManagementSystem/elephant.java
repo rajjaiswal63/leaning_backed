@@ -1,4 +1,4 @@
-package javaBasics.Challenge03ZooManagementSystem;
+package javaBasics.challenges.Challenge03ZooManagementSystem;
 
 public class elephant extends animal {
     public elephant(String name){

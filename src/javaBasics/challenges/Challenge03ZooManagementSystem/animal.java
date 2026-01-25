@@ -1,4 +1,4 @@
-package javaBasics.Challenge03ZooManagementSystem;
+package javaBasics.challenges.Challenge03ZooManagementSystem;
 
 abstract public class animal {
     private String name;

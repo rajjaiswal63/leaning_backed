@@ -1,4 +1,4 @@
-package javaBasics.Challenge03ZooManagementSystem;
+package javaBasics.challenges.Challenge03ZooManagementSystem;
 
 public class main {
     public static void main(String[] args) {
