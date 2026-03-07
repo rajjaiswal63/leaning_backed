@@ -21,4 +21,8 @@ public class HibernateUtil {
     public static Session getsession() {
         return sessionFactory.getCurrentSession();
     }
+
+    public static void close() {
+        sessionFactory.close();
+    }
 }

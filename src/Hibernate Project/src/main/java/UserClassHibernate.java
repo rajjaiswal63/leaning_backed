@@ -1,6 +1,13 @@
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class UserClassHibernate  {
+    @Id
     private long id;
     private String name;
+
+
 
     public UserClassHibernate(long id, String name) {
         this.id = id;

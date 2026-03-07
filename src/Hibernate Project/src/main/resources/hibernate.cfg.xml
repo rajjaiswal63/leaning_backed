@@ -7,7 +7,10 @@
 
         <!-- Database connection -->
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_project_db?useSSL=false&amp;serverTimezone=UTC</property>
+<!--        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_project_db?useSSL=false&amp;serverTimezone=UTC</property>-->
+        <property name="hibernate.connection.url">
+            jdbc:mysql://localhost:3306/hibernate_project_db?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC
+        </property>
         <property name="hibernate.connection.username">user-raj</property>
         <property name="hibernate.connection.password">password</property>
 
