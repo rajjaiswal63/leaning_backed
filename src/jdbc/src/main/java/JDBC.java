@@ -19,6 +19,7 @@ public class JDBC {
 //                throw new RuntimeException(e);
 //            }
 //        }
+//  .
 //       --------- all above code is reduce to this ----------
         try(Connection conn=DriverManager.getConnection(URL, USER, PASSWORD)) {
             System.out.println("DataBase is Connected");
