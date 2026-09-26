@@ -2,8 +2,8 @@ import java.sql.*;
 
 public class JDBC {
     private static final String URL="jdbc:mysql://localhost:3306/new";
-    private static final String USER="user-raj";
-    private static final String PASSWORD="password";
+    private static final String USER="";
+    private static final String PASSWORD="";
     static void main() {
 //        Connection conn = null;
 //        try {
